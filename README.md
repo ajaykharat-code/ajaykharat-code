@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | DevOps & Cloud Enthusiast | System Design Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=570&lines=Code.+Build.+Scale.+Repeat.;Backend+Engineer+driven+by+impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&width=570&lines=Code.+Build.+Scale.+Repeat.;Backend+Engineer+driven+by+impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
