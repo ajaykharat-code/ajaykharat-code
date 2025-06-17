@@ -68,6 +68,9 @@ Optimized payment flow using **heap-based algorithms** and **Command & Strategy 
 💊 **Pharmacy Supply Management System**  
 Full-stack app using **Angular** & **Spring Boot**, streamlining MR scheduling, doctor visits, and stock-based pharmacy supply.
 
+📦 **Core Banking – ING Bank**
+Backend microservices using **Spring Boot** and **Kafka**, deployed via **Azure DevOps** and OpenShift, powering secure, scalable financial operations with real-time event streaming.
+
 📦 **Block Order Management System**  
 Compliance-driven rule engine using **Spring Batch**, with dynamic HTML email templating and cron scheduling — ensuring **zero manual effort**.
 
