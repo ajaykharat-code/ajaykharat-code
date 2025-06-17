@@ -29,7 +29,7 @@
 `Java` `Python` `C` `C++` `SQL` `CQL` `JavaScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`Spring Boot` `Spring MVC` `Spring Data JPA` `Spring Cloud` `Spring Security` `Spring AOP` `Spring Batch` `Hibernate` `JPA` `JUnit` `Mockito` `Maven` `Angular` `Bootstrap`
+`Spring Boot` `Spring MVC` `Spring Data JPA` `Spring Cloud` `Spring Security` `Spring AOP` `Spring Batch` `Hibernate` `JDBC` `J2EE` `JPA` `JUnit` `Mockito` `Maven` `Angular` `Bootstrap`
 
 **Cloud & DevOps:**  
 `Azure DevOps` `Git` `CI/CD Pipelines` `Docker` `Kubernetes` `Checkmarx` `Prisma` `Confluence` `ServiceNow`
